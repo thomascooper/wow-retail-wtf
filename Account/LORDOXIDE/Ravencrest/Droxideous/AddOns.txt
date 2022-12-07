@@ -1,7 +1,7 @@
 AAP-Core: disabled
 AAP-EasternKingdoms: disabled
 AAP-Shadowlands: disabled
-AskMrRobot: disabled
+AskMrRobot: enabled
 AtlasLoot_BattleforAzeroth: disabled
 AtlasLoot_BurningCrusade: disabled
 AtlasLoot_Cataclysm: disabled
@@ -18,11 +18,11 @@ AtlasLoot_WorldEvents: disabled
 AtlasLoot_WrathoftheLichKing: disabled
 AtlasLoot: disabled
 AutoBar: disabled
-BagBrother: disabled
-Bagnon: disabled
-Bagnon_Config: disabled
-Bagnon_GuildBank: disabled
-Bagnon_VoidStorage: disabled
+BagBrother: enabled
+Bagnon: enabled
+Bagnon_Config: enabled
+Bagnon_GuildBank: enabled
+Bagnon_VoidStorage: enabled
 Clique: disabled
 Details: enabled
 Details_EncounterDetails: enabled
@@ -44,8 +44,8 @@ PetTracker_Battle: disabled
 PetTracker_Config: disabled
 PetTracker_Journal: disabled
 Recount: disabled
-SavedInstances: disabled
-TomTom: disabled
+SavedInstances: enabled
+TomTom: enabled
 WeakAuras: disabled
 WeakAurasArchive: disabled
 WeakAurasModelPaths: disabled
@@ -68,5 +68,5 @@ DBM-VPVEM: disabled
 DBM-DragonIsles: disabled
 DBM-Shadowlands: disabled
 DBM-WorldEvents: disabled
-TradeSkillMaster: disabled
+TradeSkillMaster: enabled
 TradeSkillMaster_AppHelper: disabled

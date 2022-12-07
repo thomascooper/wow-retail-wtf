@@ -16,7 +16,7 @@ AskMrRobotDb4 = {
 				["LastDiff"] = 0,
 				["LastZone"] = "Kalimdor",
 			},
-			["LastVersion"] = 117,
+			["LastVersion"] = 118,
 			["Equipped"] = {
 				[2] = {
 					{

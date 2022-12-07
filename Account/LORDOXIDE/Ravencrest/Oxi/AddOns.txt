@@ -1,6 +1,6 @@
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
-TradeSkillMaster: disabled
+TradeSkillMaster: enabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 WeakAuras: enabled
@@ -48,8 +48,8 @@ PetTracker: disabled
 PetTracker_Battle: disabled
 PetTracker_Config: disabled
 PetTracker_Journal: disabled
-SavedInstances: disabled
-TomTom: disabled
+SavedInstances: enabled
+TomTom: enabled
 WorldQuestTracker: disabled
 TradeSkillMaster_AppHelper: enabled
 ElvUI_BenikUI: disabled
@@ -68,8 +68,8 @@ DBM-VPVEM: enabled
 DBM-DragonIsles: enabled
 DBM-Shadowlands: enabled
 DBM-WorldEvents: enabled
-Bagnon: disabled
-Bagnon_Config: disabled
-Bagnon_GuildBank: disabled
-Bagnon_VoidStorage: disabled
-BagBrother: disabled
+Bagnon: enabled
+Bagnon_Config: enabled
+Bagnon_GuildBank: enabled
+Bagnon_VoidStorage: enabled
+BagBrother: enabled
