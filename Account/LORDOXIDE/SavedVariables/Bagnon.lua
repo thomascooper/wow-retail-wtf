@@ -35,6 +35,7 @@ Bagnon_Sets = {
 	},
 	["global"] = {
 		["inventory"] = {
+			["y"] = 24.4995002746582,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
@@ -57,10 +58,12 @@ Bagnon_Sets = {
 				"quest", -- [19]
 				"misc", -- [20]
 			},
+			["point"] = "BOTTOMRIGHT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
+			["x"] = -3.4720458984375,
 			["hiddenRules"] = {
 			},
 			["borderColor"] = {

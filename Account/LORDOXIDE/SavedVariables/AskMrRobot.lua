@@ -381,7 +381,7 @@ AskMrRobotDb4 = {
 				},
 			},
 			["minimap"] = {
-				["minimapPos"] = 147.0390734060012,
+				["minimapPos"] = 356.3309061344792,
 			},
 		},
 		["Oxidious - Ravencrest"] = {

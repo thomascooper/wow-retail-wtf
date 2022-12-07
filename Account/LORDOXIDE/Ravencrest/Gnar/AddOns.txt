@@ -52,7 +52,7 @@ WeakAurasModelPaths: disabled
 WeakAurasOptions: disabled
 WeakAurasTemplates: disabled
 WorldQuestTracker: disabled
-ElvUI_BenikUI: disabled
+ElvUI_BenikUI: enabled
 SCGuildRecruiter: disabled
 DBM-Core: disabled
 DBM-GUI: disabled

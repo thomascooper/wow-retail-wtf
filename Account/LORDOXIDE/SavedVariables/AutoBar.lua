@@ -194,6 +194,7 @@ AutoBarDB = {
 AutoBarDB2 = {
 	["db_version"] = 1,
 	["ldb_icon"] = {
+		["minimapPos"] = 196.7685212239144,
 	},
 	["chars"] = {
 		["Rudain - Ravencrest"] = {
@@ -241,13 +242,13 @@ AutoBarDB2 = {
 					["rows"] = 1,
 					["dockShiftY"] = 0,
 					["alignButtons"] = "3",
-					["posX"] = 300,
+					["posX"] = 368.2096666111465,
 					["hide"] = false,
 					["enabled"] = true,
 					["columns"] = 10,
 					["alpha"] = 1,
 					["frameStrata"] = "LOW",
-					["posY"] = 280,
+					["posY"] = 109.845695208578,
 					["allowed_class"] = "EVOKER",
 					["popupDirection"] = "1",
 					["padding"] = 0,
@@ -320,10 +321,10 @@ AutoBarDB2 = {
 			["AutoBarClassBarBasic"] = {
 				["popupDirection"] = "1",
 				["fadeOut"] = false,
-				["buttonHeight"] = 36,
+				["scale"] = 1,
 				["rows"] = 1,
 				["dockShiftY"] = 0,
-				["alignButtons"] = "3",
+				["stickToFrameName"] = "AutoBarClassBarExtrasDriver",
 				["buttonKeys"] = {
 					"AutoBarButtonHearth", -- [1]
 					"AutoBarButtonBandages", -- [2]
@@ -347,26 +348,30 @@ AutoBarDB2 = {
 					"AutoBarButtonTrinket1", -- [20]
 					"AutoBarButtonTrinket2", -- [21]
 				},
-				["posX"] = 300,
+				["posX"] = 782.1333622875136,
+				["stickToX"] = 0,
+				["stickToPoint"] = "topright",
 				["hide"] = false,
 				["enabled"] = true,
-				["columns"] = 16,
-				["posY"] = 200,
-				["alpha"] = 1,
-				["buttonWidth"] = 36,
+				["stickPoint"] = "bottomright",
+				["posY"] = 179.3236753019983,
+				["stickToY"] = 0,
 				["frameStrata"] = "LOW",
+				["buttonWidth"] = 36,
+				["buttonHeight"] = 36,
+				["alignButtons"] = "9",
 				["allowed_class"] = "*",
+				["columns"] = 16,
 				["padding"] = 0,
 				["dockShiftX"] = 0,
-				["scale"] = 1,
+				["alpha"] = 1,
 			},
 			["AutoBarClassBarExtras"] = {
 				["popupDirection"] = "1",
 				["fadeOut"] = false,
-				["buttonHeight"] = 36,
+				["scale"] = 1,
 				["rows"] = 1,
 				["dockShiftY"] = 0,
-				["alignButtons"] = "3",
 				["buttonKeys"] = {
 					"AutoBarButtonSpeed", -- [1]
 					"AutoBarButtonFreeAction", -- [2]
@@ -383,24 +388,24 @@ AutoBarDB2 = {
 					"AutoBarButtonReputation", -- [13]
 					"AutoBarButtonMount", -- [14]
 					"AutoBarButtonBattlePetItems", -- [15]
-					nil, -- [16]
-					"AutoBarButtonOrderHallResource", -- [17]
-					"AutoBarButtonArchaeology", -- [18]
-					"AutoBarButtonOrderHallTroop", -- [19]
-					"AutoBarButtonRaidTarget", -- [20]
+					"AutoBarButtonOrderHallResource", -- [16]
+					"AutoBarButtonArchaeology", -- [17]
+					"AutoBarButtonOrderHallTroop", -- [18]
+					"AutoBarButtonRaidTarget", -- [19]
 				},
-				["posX"] = 300,
+				["posX"] = 1037.283511353962,
 				["hide"] = false,
 				["enabled"] = true,
-				["columns"] = 9,
-				["posY"] = 360,
-				["alpha"] = 1,
-				["buttonWidth"] = 36,
+				["posY"] = 142.8736628350907,
 				["frameStrata"] = "LOW",
+				["buttonWidth"] = 36,
+				["buttonHeight"] = 36,
+				["alignButtons"] = "9",
 				["allowed_class"] = "*",
+				["columns"] = 9,
 				["padding"] = 0,
 				["dockShiftX"] = 0,
-				["scale"] = 1,
+				["alpha"] = 1,
 			},
 		},
 		["buttonList"] = {
@@ -662,14 +667,6 @@ AutoBarDB2 = {
 				["buttonKey"] = "AutoBarButtonBandages",
 				["defaultButtonIndex"] = 3,
 			},
-			["AutoBarButtonFishing"] = {
-				["barKey"] = "AutoBarClassBarExtras",
-				["buttonClass"] = "AutoBarButtonFishing",
-				["square_popups"] = true,
-				["enabled"] = true,
-				["buttonKey"] = "AutoBarButtonFishing",
-				["defaultButtonIndex"] = 4,
-			},
 			["AutoBarButtonTrinket2"] = {
 				["barKey"] = "AutoBarClassBarBasic",
 				["targeted"] = 14,
@@ -679,6 +676,14 @@ AutoBarDB2 = {
 				["enabled"] = true,
 				["equipped"] = 14,
 				["square_popups"] = true,
+			},
+			["AutoBarButtonFishing"] = {
+				["barKey"] = "AutoBarClassBarExtras",
+				["buttonClass"] = "AutoBarButtonFishing",
+				["square_popups"] = true,
+				["enabled"] = true,
+				["buttonKey"] = "AutoBarButtonFishing",
+				["defaultButtonIndex"] = 4,
 			},
 			["AutoBarButtonGarrison"] = {
 				["barKey"] = "AutoBarClassBarExtras",

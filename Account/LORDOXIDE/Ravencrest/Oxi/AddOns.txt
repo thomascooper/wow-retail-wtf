@@ -52,7 +52,7 @@ SavedInstances: enabled
 TomTom: enabled
 WorldQuestTracker: disabled
 TradeSkillMaster_AppHelper: enabled
-ElvUI_BenikUI: disabled
+ElvUI_BenikUI: enabled
 SCGuildRecruiter: disabled
 DBM-Core: enabled
 DBM-GUI: enabled
@@ -73,3 +73,14 @@ Bagnon_Config: enabled
 Bagnon_GuildBank: enabled
 Bagnon_VoidStorage: enabled
 BagBrother: enabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_AuraBarsMovers: disabled
+ElvUI_CustomTweaks: disabled
+ElvUI_DTBars2: disabled
+ElvUI_QuestXP: disabled
+ElvUI_CustomTags: disabled
+ElvUI_UnitFramePlugin: disabled
+kExtraBossFrames: disabled

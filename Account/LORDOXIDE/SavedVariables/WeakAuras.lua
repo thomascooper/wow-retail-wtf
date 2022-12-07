@@ -5,7 +5,7 @@ WeakAurasSaved = {
 	["login_squelch_time"] = 10,
 	["lastArchiveClear"] = 1664779898,
 	["minimap"] = {
-		["minimapPos"] = 95.71055516691963,
+		["minimapPos"] = 8.492824589598236,
 		["hide"] = false,
 	},
 	["lastUpgrade"] = 1670442187,

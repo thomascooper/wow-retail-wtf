@@ -80,11 +80,11 @@ CliqueDB3 = {
 		},
 	},
 	["profileKeys"] = {
-		["Rukdain - Bloodhoof"] = "Rukdain - Bloodhoof",
+		["Cakruine - Stormreaver"] = "Cakruine - Stormreaver",
 		["Rudain - Ravencrest"] = "Rudain - Ravencrest",
 		["Demoxidious - Ravencrest"] = "Demoxidious - Ravencrest",
 		["Droxideous - Ravencrest"] = "Droxideous - Ravencrest",
-		["Vularian - Ravencrest"] = "Vularian - Ravencrest",
+		["Oxidious - Bloodhoof"] = "Oxidious - Bloodhoof",
 		["Grox - Ravencrest"] = "Grox - Ravencrest",
 		["Oxidious - Ravencrest"] = "Oxidious - Bloodhoof",
 		["Oxideous - Ravencrest"] = "Oxideous - Ravencrest",
@@ -94,8 +94,8 @@ CliqueDB3 = {
 		["Oxideath - Kilrogg"] = "Oxideath - Kilrogg",
 		["Rudain - Bloodhoof"] = "Rudain - Bloodhoof",
 		["Oxideous - Bloodscalp"] = "Oxideous - Bloodscalp",
-		["Oxidious - Bloodhoof"] = "Oxidious - Bloodhoof",
-		["Cakruine - Stormreaver"] = "Cakruine - Stormreaver",
+		["Vularian - Ravencrest"] = "Vularian - Ravencrest",
+		["Rukdain - Bloodhoof"] = "Rukdain - Bloodhoof",
 	},
 	["profiles"] = {
 		["Rudain - Ravencrest"] = {
@@ -367,6 +367,25 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
+		["Cakruine - Stormreaver"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
 		["HealPriest"] = {
 			["bindings"] = {
 				{
@@ -387,25 +406,6 @@ CliqueDB3 = {
 			},
 		},
 		["Vularian - Ravencrest"] = {
-			["bindings"] = {
-				{
-					["type"] = "target",
-					["sets"] = {
-						["default"] = true,
-					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Cakruine - Stormreaver"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
