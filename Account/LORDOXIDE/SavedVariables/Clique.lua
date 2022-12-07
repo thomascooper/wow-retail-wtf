@@ -80,22 +80,22 @@ CliqueDB3 = {
 		},
 	},
 	["profileKeys"] = {
-		["Cakruine - Stormreaver"] = "Cakruine - Stormreaver",
+		["Vularian - Ravencrest"] = "Vularian - Ravencrest",
 		["Rudain - Ravencrest"] = "Rudain - Ravencrest",
-		["Demoxidious - Ravencrest"] = "Demoxidious - Ravencrest",
-		["Droxideous - Ravencrest"] = "Droxideous - Ravencrest",
-		["Oxidious - Bloodhoof"] = "Oxidious - Bloodhoof",
-		["Grox - Ravencrest"] = "Grox - Ravencrest",
-		["Oxidious - Ravencrest"] = "Oxidious - Bloodhoof",
 		["Oxideous - Ravencrest"] = "Oxideous - Ravencrest",
-		["Grek - Bloodhoof"] = "HolyPaladin",
-		["Oxi - Ravencrest"] = "Oxi - Ravencrest",
+		["Droxideous - Ravencrest"] = "Droxideous - Ravencrest",
+		["Cakruine - Stormreaver"] = "Cakruine - Stormreaver",
 		["Gnar - Ravencrest"] = "Gnar - Ravencrest",
+		["Oxidious - Ravencrest"] = "Oxidious - Bloodhoof",
+		["Demoxidious - Ravencrest"] = "Demoxidious - Ravencrest",
+		["Grek - Bloodhoof"] = "HolyPaladin",
+		["Oxideous - Bloodscalp"] = "Oxideous - Bloodscalp",
+		["Grox - Ravencrest"] = "Grox - Ravencrest",
 		["Oxideath - Kilrogg"] = "Oxideath - Kilrogg",
 		["Rudain - Bloodhoof"] = "Rudain - Bloodhoof",
-		["Oxideous - Bloodscalp"] = "Oxideous - Bloodscalp",
-		["Vularian - Ravencrest"] = "Vularian - Ravencrest",
+		["Oxi - Ravencrest"] = "Oxi - Ravencrest",
 		["Rukdain - Bloodhoof"] = "Rukdain - Bloodhoof",
+		["Oxidious - Bloodhoof"] = "Oxidious - Bloodhoof",
 	},
 	["profiles"] = {
 		["Rudain - Ravencrest"] = {
@@ -424,13 +424,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Gnar - Ravencrest"] = {
+		["Grox - Ravencrest"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -636,13 +636,13 @@ CliqueDB3 = {
 				}, -- [10]
 			},
 		},
-		["Oxi - Ravencrest"] = {
+		["Oxideous - Bloodscalp"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -655,13 +655,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Grox - Ravencrest"] = {
+		["Gnar - Ravencrest"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -712,13 +712,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Oxideous - Bloodscalp"] = {
+		["Oxi - Ravencrest"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

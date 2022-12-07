@@ -57,10 +57,10 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:193916::::::::60:1468::26:1:8774:2:9:60:28:2150:::::|h[Dragonkin Signet Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 194109,
-			["Level"] = 229,
+			["ID"] = 193916,
+			["Level"] = 239,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:194109::::::::60:1468::26:1:8774:2:9:59:28:2150:::::|h[Verdant Dracthyr's Band]|h|r",
+			["Link"] = "|cff0070dd|Hitem:193916::::::::60:1467::26:1:8774:2:9:60:28:2150:::::|h[Dragonkin Signet Ring]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 194333,
@@ -69,10 +69,10 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:194333::::::::60:1468::26:1:8774:2:9:59:28:2150:::::|h[Ekrazathal's Colored Fang]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 193914,
-			["Level"] = 219,
+			["ID"] = 194333,
+			["Level"] = 229,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:193914::::::::60:1468::26:1:8774:2:9:58:28:2150:::::|h[Crystalline Lapis]|h|r",
+			["Link"] = "|cff0070dd|Hitem:194333::::::::60:1467::26:1:8774:2:9:59:28:2150:::::|h[Ekrazathal's Colored Fang]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 194422,

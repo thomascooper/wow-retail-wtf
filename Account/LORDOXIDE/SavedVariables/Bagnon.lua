@@ -35,7 +35,7 @@ Bagnon_Sets = {
 	},
 	["global"] = {
 		["inventory"] = {
-			["y"] = 24.4995002746582,
+			["y"] = 24.49950408935547,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
