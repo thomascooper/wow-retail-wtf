@@ -1,0 +1,7 @@
+Config.wtf
+*cache.md5
+*config-cache.wtf
+*lua.bak
+*.old
+*Blizzard_Console*
+*Blizzard_CombatLog.lua

@@ -1,0 +1,47 @@
+VER 3 0000000000000046 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 000000000000000F "Assist" "Ability_SteelMelee"
+/assist focus
+END
+VER 3 0000000000000045 "Cloak" "INV_MISC_QUESTIONMARK"
+#showtooltip Goblin Glider Kit
+/use 15
+/use Goblin Glider Kit
+END
+VER 3 0000000000000043 "GRM_Roster" "inv_bannerpvp_01"
+/run GuildFrame_Toggle()
+/run GuildFrame_TabClicked ( GuildFrameTab2 )
+END
+VER 3 0000000000000044 "GRM_Tool" "INV_MISC_QUESTIONMARK"
+END
+VER 3 000000000000001F "Guild 1" "INV_SCROLL_11"
+/1 Looking for a guild? Drunkenoath is rebuilding after boring BFA and Classic (and a little Valheim). Msg for an invite. Casual guild with generally older players lol, great times. Abandoned guild? Come hang with us!!!
+END
+VER 3 0000000000000020 "guild 2" "ACHIEVEMENT_GUILDPERK_GMAIL"
+/2 LFM: DrunkenOath (lvl 25) is looking for a solid dsper and tank for 10man progession. We have a strong core group averaging 560+ ilvl -  7/14 SoO so far. 6:30 server raid times, 2-3x a week. Let me know if you are interested.
+END
+VER 3 0000000000000041 "HealthStone" "INV_MISC_QUESTIONMARK"
+#showtooltip Healthstone
+/use Healthstone
+END
+VER 3 000000000000003D "Quest Check" "134331"
+/run print(C_QuestLog.IsQuestFlaggedCompleted(40545))
+END
+VER 3 000000000000003E "Trinket 1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 000000000000003F "Trinket 2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 000000000000003C "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMCancelAuctionBtn
+/click TSMVendoringSellAllButton
+/click TSMShoppingBuyoutBtn
+/click TSMSniperBtn
+/click TSMCraftingBtn
+/click TSMAuctioningBtn
+/click TSMDestroyBtn
+END

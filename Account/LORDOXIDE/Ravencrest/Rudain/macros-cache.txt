@@ -1,0 +1,88 @@
+VER 3 0100000000000010 "40 Talent" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [talent:5/1] healing elixir
+/use [talent:5/2] diffuse magic
+/use [talent:5/3] dampen harm
+END
+VER 3 010000000000000C "Belt Tinker" "132510"
+/script TradeSkillFrame.DetailsFrame:Create();
+/use 6
+/click StaticPopup1Button1
+END
+VER 3 010000000000000D "Blackout" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use blackout kick
+/use purifying brew
+END
+VER 3 0100000000000008 "blackout provoke" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast spinning crane kick
+/cast provoke
+END
+VER 3 0100000000000005 "Brew" "INV_MISC_QUESTIONMARK"
+#showtooltip Bonedust Brew
+/use Battle Standard of Coordination
+/cast [@player] Bonedust Brew
+END
+VER 3 010000000000000F "Fistweave" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget
+/targetenemy [noexists][dead]
+/castsequence [talent:6/3] reset=12 Essence Font, Tiger Palm, Blackout Kick, Blackout Kick, Tiger Palm,  Blackout Kick, Tiger Palm, Blackout Kick
+/use [talent:6/1] Essence Font
+END
+VER 3 0100000000000006 "Fortify" "INV_MISC_QUESTIONMARK"
+/cast Fortifying Brew
+/use horde battle standard
+/use healing elixir
+END
+VER 3 0100000000000003 "Heal It!" "INV_MISC_QUESTIONMARK"
+#showtooptip
+/use Sinful Aspirant's Emblem
+/use Healthstone
+/cast Healing Elixir
+END
+VER 3 0100000000000004 "Jade Statue" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Summon Jade Serpent Statue
+END
+VER 3 0100000000000001 "Mists n Tea" "627487"
+#showtooltip Renewing Mist
+/cast Thunder Focus Tea
+/cast Renewing Mist
+END
+VER 3 0100000000000002 "Oh Shit" "INV_MISC_QUESTIONMARK"
+/use Sinful Aspirant's Medallion
+/cast zen focus tea
+/cast [@player] Bonedust Brew
+/cast Healing Elixir
+END
+VER 3 0100000000000009 "Palm Provoke" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast tiger palm
+/cast Purifying Brew
+/cast provoke
+END
+VER 3 010000000000000B "Para" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget
+/targetenemy [noexists][dead]
+/cast Paralysis
+END
+VER 3 010000000000000A "Rising Sun SM" "INV_MISC_QUESTIONMARK"
+#showtooltip Rising Sun Kick
+/cleartarget
+/targetenemy [noexists][dead]
+/stopmacro [channeling:Essence Font]
+/use [talent:7/3] thunder focus tea
+/cast Rising Sun Kick
+END
+VER 3 010000000000000E "Statue wind" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/1, @player] Summon Jade Serpent Statue
+/cast [talent:6/2] Refreshing Jade Wind
+END
+VER 3 0100000000000007 "Tricks" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Bag of Tricks
+END

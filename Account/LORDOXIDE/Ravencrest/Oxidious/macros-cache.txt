@@ -1,0 +1,73 @@
+VER 3 0100000000000015 "Break" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use sinful gladiator's medallion
+/use healthstone
+/use spiritwalker's grace
+END
+VER 3 0100000000000005 "Capacitor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@cursor] Capacitor Totem
+END
+VER 3 0100000000000003 "Earth Ele" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/target [@player, nocombat]
+/cast Earth Elemental
+/cast [talent:6/2]Harden Skin
+/targetlasttarget [nocombat]
+END
+VER 3 0100000000000008 "Earth Shock" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [harm,exists] Earth Shock; Earth Shock
+END
+VER 3 0100000000000006 "Earthbind" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@cursor] Earthbind Totem
+END
+VER 3 0100000000000010 "Earthen Wall" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@cursor] Earthen Wall Totem
+END
+VER 3 0100000000000002 "Fire Ele" "INV_MISC_QUESTIONMARK"
+#showtooltip Fire Elemental
+/target [@player, nocombat]
+/cast Fire Elemental
+/targetlasttarget [nocombat]
+END
+VER 3 0100000000000014 "Healing" "INV_MISC_QUESTIONMARK"
+/cast [talent:1/3] Unleash Life
+/cast [talent:7/2] Wellspring
+END
+VER 3 0100000000000011 "Kill" "135850"
+/cleartarget
+/targetenemy [noexists][dead]
+/use Frost Shock
+END
+VER 3 0100000000000007 "Lava Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [harm,exists] Lava Burst; Lava Burst
+END
+VER 3 010000000000000F "Oh Shit" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use sinful gladiator's emblem
+/use healthstone
+/use spiritwalker's grace
+END
+VER 3 0100000000000012 "Oh shit 2" "INV_MISC_QUESTIONMARK"
+/cast [@player] earthen wall totem
+/use astral shift
+/use 14
+END
+VER 3 0100000000000004 "Purge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:3,@mouseover,help,nodead] Purify Spirit; [@mouseover,help,nodead] Cleanse Spirit; [@mouseover,harm,nodead] [harm] Purge; [spec:3] Purify Spirit; Cleanse Spirit
+END
+VER 3 0100000000000001 "Wind Shear" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@focus,exists][@target] Wind Shear
+END
