@@ -21,9 +21,9 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 191805,
-			["Level"] = 219,
-			["Link"] = "|cff0070dd|Hitem:191805::::::::60:1468::26:1:8774:2:9:58:28:2150:::::|h[Crimson Dracthyr Battlegear Hauberk]|h|r",
+			["ID"] = 194402,
+			["Level"] = 226,
+			["Link"] = "|cff1eff00|Hitem:194402::::::::60:1467::26:1:7963:2:28:2276:9:60:::::|h[Expedition Mercenary's Hauberk]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 191810,
@@ -36,14 +36,14 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:191808::::::::60:1468::26:2:8774:8775:2:9:60:28:2150:::::|h[Crimson Dracthyr Battlegear Leggings]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 191812,
-			["Level"] = 229,
-			["Link"] = "|cff0070dd|Hitem:191812::::::::60:1468::26:1:8774:2:9:59:28:2150:::::|h[Crimson Dracthyr Battlegear Treads]|h|r",
+			["ID"] = 194382,
+			["Level"] = 236,
+			["Link"] = "|cff1eff00|Hitem:194382::::::::62:1467::26:1:7963:2:28:2285:9:61:::::|h[Expedition Mercenary's Boots]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 191811,
-			["Level"] = 229,
-			["Link"] = "|cff0070dd|Hitem:191811::::::::60:1468::26:1:8774:2:9:59:28:2150:::::|h[Crimson Dracthyr Battlegear Bracers]|h|r",
+			["ID"] = 194413,
+			["Level"] = 236,
+			["Link"] = "|cff1eff00|Hitem:194413::::::::61:1467::26:1:7963:2:28:2151:9:61:::::|h[Expedition Mercenary's Wristwraps]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 191806,
@@ -63,16 +63,16 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:193916::::::::60:1467::26:1:8774:2:9:60:28:2150:::::|h[Dragonkin Signet Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 194333,
-			["Level"] = 229,
+			["ID"] = 200563,
+			["Level"] = 236,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:194333::::::::60:1468::26:1:8774:2:9:59:28:2150:::::|h[Ekrazathal's Colored Fang]|h|r",
+			["Link"] = "|cff0070dd|Hitem:200563::::::::62:1467::17:2:9156:6652:2:28:2424:9:61:::::|h[Primal Ritual Shell]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 194333,
-			["Level"] = 229,
+			["ID"] = 200563,
+			["Level"] = 236,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:194333::::::::60:1467::26:1:8774:2:9:59:28:2150:::::|h[Ekrazathal's Colored Fang]|h|r",
+			["Link"] = "|cff0070dd|Hitem:200563::::::::62:1467::17:2:9156:6652:2:9:61:28:2424:::::|h[Primal Ritual Shell]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 194422,
@@ -80,9 +80,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:194422::::::::60:1468::26:1:8774:2:9:58:28:2150:::::|h[Crimson Dracthyr's Drape]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 193481,
-			["Level"] = 219,
-			["Link"] = "|cff0070dd|Hitem:193481::::::::60:1468::26:1:8774:2:9:58:28:2150:::::|h[Emblazoned Ruby Staff]|h|r",
+			["ID"] = 198488,
+			["Level"] = 236,
+			["Link"] = "|cff1eff00|Hitem:198488::::::::62:1467::26:1:7963:2:9:61:28:2297:::::|h[Staff of Discovery]|h|r",
 		}, -- [16]
 	},
 	["LastKeybindingsSet"] = 1,

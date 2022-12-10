@@ -1,0 +1,408 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/bagnon", -- [1]
+		"/bagnon config", -- [2]
+		"/wa", -- [3]
+		"/reloadui", -- [4]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"how do i buy a wow token ", -- [1]
+			"Noside-Gul'dan", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Noside-Gul'dan", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			739, -- [11]
+			"Player-96-0E01A674", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaNoside-Gul'dan|r",
+			[51] = 1670621363,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"Go to the \"shop\" tab. ", -- [1]
+			"Nachwachsen-Andorhal", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Nachwachsen-Andorhal", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			740, -- [11]
+			"Player-96-0E01CF39", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aNachwachsen-Andorhal|r",
+			[51] = 1670621376,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"check ah", -- [1]
+			"Slob-Zuluhed", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Slob-Zuluhed", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			742, -- [11]
+			"Player-96-0C45B76A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc41e3aSlob-Zuluhed|r",
+			[51] = 1670621380,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"gold or green backs?", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			744, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621382,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"greenbacks ", -- [1]
+			"Noside-Gul'dan", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Noside-Gul'dan", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			745, -- [11]
+			"Player-96-0E01A674", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaNoside-Gul'dan|r",
+			[51] = 1670621395,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"its in the store", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			746, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621341,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			"it says in game purchase only", -- [1]
+			"Noside-Gul'dan", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Noside-Gul'dan", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			747, -- [11]
+			"Player-96-0E01A674", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaNoside-Gul'dan|r",
+			[51] = 1670621358,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"its labeled wow token its 20$", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			748, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621359,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
+		{
+			"go to ah", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			761, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621440,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"click wow token", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			771, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621454,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [10]
+		{
+			"thats what I told him/her too", -- [1]
+			"Slob-Zuluhed", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Slob-Zuluhed", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			774, -- [11]
+			"Player-96-0C45B76A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc41e3aSlob-Zuluhed|r",
+			[51] = 1670621458,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [11]
+		{
+			"ohhh", -- [1]
+			"Noside-Gul'dan", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Noside-Gul'dan", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			779, -- [11]
+			"Player-96-0E01A674", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaNoside-Gul'dan|r",
+			[51] = 1670621405,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [12]
+		{
+			"thanks yall", -- [1]
+			"Noside-Gul'dan", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Noside-Gul'dan", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			786, -- [11]
+			"Player-96-0E01A674", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaNoside-Gul'dan|r",
+			[51] = 1670621413,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [13]
+		{
+			"\\then click i then open shop", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			788, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621416,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [14]
+		{
+			"urvw", -- [1]
+			"Slob-Zuluhed", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Slob-Zuluhed", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			795, -- [11]
+			"Player-96-0C45B76A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc41e3aSlob-Zuluhed|r",
+			[51] = 1670621486,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [15]
+		{
+			"np some times it takes a few tries slob", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			799, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621491,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [16]
+		{
+			";p", -- [1]
+			"Growingreen-LaughingSkull", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Growingreen-LaughingSkull", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			809, -- [11]
+			"Player-67-0EAEC1D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aGrowingreen-LaughingSkull|r",
+			[51] = 1670621508,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [17]
+		{
+			"im trying to use the $ on my blizzard acc to buy a wow token. ", -- [1]
+			"Noside-Gul'dan", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Noside-Gul'dan", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			878, -- [11]
+			"Player-96-0E01A674", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaNoside-Gul'dan|r",
+			[51] = 1670621620,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [18]
+	},
+}

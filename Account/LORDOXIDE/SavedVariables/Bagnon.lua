@@ -35,7 +35,6 @@ Bagnon_Sets = {
 	},
 	["global"] = {
 		["inventory"] = {
-			["y"] = 24.49950408935547,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
@@ -60,14 +59,17 @@ Bagnon_Sets = {
 			},
 			["point"] = "BOTTOMRIGHT",
 			["hiddenBags"] = {
+				false, -- [1]
 			},
 			["color"] = {
 			},
-			["x"] = -3.4720458984375,
 			["hiddenRules"] = {
 			},
+			["y"] = 24.49950408935547,
+			["x"] = -3.4720458984375,
 			["borderColor"] = {
 			},
+			["bagBreak"] = false,
 		},
 		["vault"] = {
 			["rules"] = {
@@ -156,14 +158,19 @@ Bagnon_Sets = {
 				"quest", -- [19]
 				"misc", -- [20]
 			},
+			["point"] = "TOPLEFT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
 			["hiddenRules"] = {
 			},
+			["y"] = -9.572500698595832e-05,
+			["x"] = 152.5522155761719,
 			["borderColor"] = {
 			},
+			["scale"] = 0.9,
+			["showBags"] = true,
 		},
 	},
 }

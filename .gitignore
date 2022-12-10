@@ -1,6 +1,8 @@
 Config.wtf
 *cache.md5
-*config-cache.wtf
+*-cache.wtf
+*-cache.txt
+*-cache-*
 *lua.bak
 *.old
 *Blizzard_Console*

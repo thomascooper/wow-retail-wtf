@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0702,
+	["LastVersion"] = 2.0713,
 	["LastPlayerFullName"] = "Oxidious-Ravencrest",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {

@@ -4,6 +4,7 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		"/reloadui", -- [1]
 		"/wa", -- [2]
+		"/tomtom", -- [3]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -72,5 +73,93 @@ ElvCharacterDB = {
 			[51] = 1670449599,
 			[50] = "CHAT_MSG_BN_WHISPER",
 		}, -- [3]
+		{
+			"BATTLE", -- [1]
+			"Texasmafia-Mal'Ganis", -- [2]
+			"", -- [3]
+			"1. General - The Waking Shores", -- [4]
+			"Texasmafia-Mal'Ganis", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - The Waking Shores", -- [9]
+			0, -- [10]
+			190, -- [11]
+			"Player-3684-0D137754", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeTexasmafia-Mal'Ganis|r",
+			[51] = 1670523839,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"AND CAULDRON UP", -- [1]
+			"Texasmafia-Mal'Ganis", -- [2]
+			"", -- [3]
+			"1. General - The Waking Shores", -- [4]
+			"Texasmafia-Mal'Ganis", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - The Waking Shores", -- [9]
+			0, -- [10]
+			191, -- [11]
+			"Player-3684-0D137754", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeTexasmafia-Mal'Ganis|r",
+			[51] = 1670523781,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"pin?", -- [1]
+			"Sheepotle-Area52", -- [2]
+			"", -- [3]
+			"1. General - The Waking Shores", -- [4]
+			"Sheepotle-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - The Waking Shores", -- [9]
+			0, -- [10]
+			198, -- [11]
+			"Player-3676-0DE77167", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebSheepotle-Area52|r",
+			[51] = 1670523807,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			"SPIDER in citadel i think", -- [1]
+			"Texasmafia-Mal'Ganis", -- [2]
+			"", -- [3]
+			"1. General - The Waking Shores", -- [4]
+			"Texasmafia-Mal'Ganis", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - The Waking Shores", -- [9]
+			0, -- [10]
+			232, -- [11]
+			"Player-3684-0D137754", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeTexasmafia-Mal'Ganis|r",
+			[51] = 1670523970,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
 	},
 }

@@ -50,7 +50,7 @@ PetTracker_Config: disabled
 PetTracker_Journal: disabled
 SavedInstances: enabled
 TomTom: enabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 TradeSkillMaster_AppHelper: enabled
 ElvUI_BenikUI: enabled
 SCGuildRecruiter: disabled
@@ -85,3 +85,6 @@ ElvUI_CustomTags: disabled
 ElvUI_UnitFramePlugin: disabled
 kExtraBossFrames: disabled
 ElvUI_Options: enabled
+Details_Compare2: enabled
+ElvUI: enabled
+ElvUI_Libraries: enabled
