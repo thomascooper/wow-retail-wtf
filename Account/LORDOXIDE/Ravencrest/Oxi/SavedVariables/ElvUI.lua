@@ -161,5 +161,27 @@ ElvCharacterDB = {
 			[51] = 1670523970,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [7]
+		{
+			"<RTC> Rohzor Forgesmash (100%) seen at |cffffff00|Hworldmap:2022:3075:6105|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Soluna-Uldaman", -- [2]
+			"", -- [3]
+			"1. General - The Waking Shores", -- [4]
+			"Soluna-Uldaman", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - The Waking Shores", -- [9]
+			0, -- [10]
+			305, -- [11]
+			"Player-1072-0D2BEF5B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaSoluna-Uldaman|r",
+			[51] = 1670638409,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
 	},
 }

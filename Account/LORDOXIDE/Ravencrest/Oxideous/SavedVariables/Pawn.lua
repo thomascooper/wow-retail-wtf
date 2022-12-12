@@ -57,10 +57,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:29997::::::::50:258::3:1:9035:2:28:820:9:30:::::|h[Band of the Ranger-General]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 165565,
-			["Level"] = 66,
+			["ID"] = 29997,
+			["Level"] = 101,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:165565:5940:::::::50:258::3:3:4798:1478:4786::::::|h[Band of Multi-Sided Strikes]|h|r",
+			["Link"] = "|cffa335ee|Hitem:29997::::::::50:258::3:1:9035:2:9:30:28:820:::::|h[Band of the Ranger-General]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 165581,

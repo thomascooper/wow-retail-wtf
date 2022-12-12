@@ -4,10 +4,10 @@ Details_StreamerDB = {
 		["Oxi - Ravencrest"] = "Rudain - Ravencrest",
 		["Grox - Ravencrest"] = "Rudain - Ravencrest",
 		["Oxidious - Ravencrest"] = "Rudain - Ravencrest",
-		["Demoxidious - Ravencrest"] = "Rudain - Ravencrest",
-		["Droxideous - Ravencrest"] = "Rudain - Ravencrest",
-		["Rudain - Ravencrest"] = "Rudain - Ravencrest",
 		["Oxideous - Ravencrest"] = "Rudain - Ravencrest",
+		["Rudain - Ravencrest"] = "Rudain - Ravencrest",
+		["Droxideous - Ravencrest"] = "Rudain - Ravencrest",
+		["Demoxidious - Ravencrest"] = "Rudain - Ravencrest",
 	},
 	["profiles"] = {
 		["Rudain - Ravencrest"] = {
@@ -20,11 +20,11 @@ Details_StreamerDB = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
 				300, -- [1]
 				500.0000305175781, -- [2]
 			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 341.9749111507626,
 				["radius"] = 160,
@@ -32,14 +32,19 @@ Details_StreamerDB = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
+			["author"] = "Terciob",
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
+			["y"] = 4.57763671875e-05,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -51,11 +56,6 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["author"] = "Terciob",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -65,8 +65,8 @@ Details_StreamerDB = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 4.57763671875e-05,
 			["use_spark"] = true,
+			["font_size"] = 10,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,

@@ -4,10 +4,10 @@ TomTomDB = {
 		["Oxi - Ravencrest"] = "Default",
 		["Grox - Ravencrest"] = "Default",
 		["Oxidious - Ravencrest"] = "Default",
-		["Demoxidious - Ravencrest"] = "Default",
-		["Droxideous - Ravencrest"] = "Default",
-		["Rudain - Ravencrest"] = "Default",
 		["Oxideous - Ravencrest"] = "Default",
+		["Rudain - Ravencrest"] = "Default",
+		["Droxideous - Ravencrest"] = "Default",
+		["Demoxidious - Ravencrest"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -20,8 +20,8 @@ TomTomDB = {
 					"TOP", -- [1]
 					nil, -- [2]
 					"TOP", -- [3]
-					141.3446044921875, -- [4]
-					-90.49530792236328, -- [5]
+					-7.900544166564941, -- [4]
+					-93.12902069091797, -- [5]
 				},
 			},
 			["block"] = {
@@ -42,10 +42,10 @@ TomTomWaypointsM = {
 		["Oxi - Ravencrest"] = "Oxi - Ravencrest",
 		["Grox - Ravencrest"] = "Grox - Ravencrest",
 		["Oxidious - Ravencrest"] = "Oxidious - Ravencrest",
-		["Demoxidious - Ravencrest"] = "Demoxidious - Ravencrest",
-		["Droxideous - Ravencrest"] = "Droxideous - Ravencrest",
-		["Rudain - Ravencrest"] = "Rudain - Ravencrest",
 		["Oxideous - Ravencrest"] = "Oxideous - Ravencrest",
+		["Rudain - Ravencrest"] = "Rudain - Ravencrest",
+		["Droxideous - Ravencrest"] = "Droxideous - Ravencrest",
+		["Demoxidious - Ravencrest"] = "Demoxidious - Ravencrest",
 	},
 	["profiles"] = {
 		["Oxi - Ravencrest"] = {
@@ -54,13 +54,13 @@ TomTomWaypointsM = {
 		},
 		["Oxidious - Ravencrest"] = {
 		},
-		["Demoxidious - Ravencrest"] = {
-		},
-		["Droxideous - Ravencrest"] = {
+		["Oxideous - Ravencrest"] = {
 		},
 		["Rudain - Ravencrest"] = {
 		},
-		["Oxideous - Ravencrest"] = {
+		["Droxideous - Ravencrest"] = {
+		},
+		["Demoxidious - Ravencrest"] = {
 		},
 	},
 }

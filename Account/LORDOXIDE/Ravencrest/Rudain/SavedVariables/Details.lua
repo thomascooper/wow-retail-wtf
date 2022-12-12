@@ -189,7 +189,10 @@ _detalhes_database = {
 				0.5, -- [4]
 			},
 			["scale"] = 1,
-			["arrow_anchor_y"] = 0,
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
 			["minimap"] = {
 				["minimapPos"] = 341.9749111507626,
 				["radius"] = 160,
@@ -210,22 +213,6 @@ _detalhes_database = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -237,38 +224,41 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Terciob",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 4.57763671875e-05,
+			["font_size"] = 10,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["font_size"] = 10,
-			["author"] = "Terciob",
-			["main_frame_locked"] = false,
-			["main_frame_size"] = {
-				300, -- [1]
-				500.0000305175781, -- [2]
+			["use_spark"] = true,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
 			},
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 		},
+	},
+	["data_harvested_for_charts"] = {
+	},
+	["last_day"] = "09",
+	["cached_roles"] = {
 	},
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
 	["last_instance_time"] = 0,
-	["cached_roles"] = {
-	},
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
-	["data_harvested_for_charts"] = {
-	},
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
@@ -293,7 +283,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -389.0740127563477,
-					["x"] = 532.799072265625,
+					["x"] = 532.7991943359375,
 					["w"] = 200.0001220703125,
 					["h"] = 120.0000457763672,
 				},
@@ -328,7 +318,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -389.0740127563477,
-					["x"] = 734.7991943359375,
+					["x"] = 734.79931640625,
 					["w"] = 204.0001068115234,
 					["h"] = 120.0000457763672,
 				},
@@ -349,7 +339,7 @@ _detalhes_database = {
 		["nextreset"] = 1671912591,
 		["last_version"] = 15,
 	},
-	["combat_counter"] = 30,
+	["combat_counter"] = 34,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -478,10 +468,20 @@ _detalhes_database = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 9,
+		["logons"] = 11,
 	},
 	["force_font_outline"] = "",
-	["last_day"] = "09",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {
